@@ -8,3 +8,13 @@ openai
 groq
 tavily-python
 pydantic>=2.0
+langgraph
+# langgraph_core
+pydantic>=2.0
+pydantic-settings
+FastAPI
+uvicorn
+streamlit
+requests
+langchain_huggingface
+huggingface_hub
